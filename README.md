@@ -2,7 +2,7 @@
 An interactive Power BI business intelligence dashboard designed to monitor end-to-end sales performance, regional demand across India, customer rating patterns, and payment preferences for a retail mobile chain.
 ---
 ## Dashboard Preview
-![Mobile Store Dashboard](assets/dashboard-overview.png)
+![Mobile Store Dashboard](dashboard-overview.png)
 ---
 ## Business Highlights & Key Metrics
 - **Total Sales Revenue:** ₹769M across recorded transactions
