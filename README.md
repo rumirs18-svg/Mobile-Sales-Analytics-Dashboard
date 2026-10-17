@@ -28,4 +28,5 @@ An interactive Power BI business intelligence dashboard designed to monitor end-
 - **Dataset Source:** Retail Mobile Sales CSV
 ---
 ## Author
-<Rumana Yasmin>
+Rumana Yasmin
+---
